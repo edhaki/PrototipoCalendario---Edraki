@@ -23,10 +23,10 @@ public static void main(String[] args) {
     //Retorno apenas do ano a pedido do desafio.
     System.out.println("Ano Atual: " + dataAtual.get(Calendar.YEAR));
     
-   //Verficia se o ano é bisexto ou não.
+   //Verifica se o ano é bisexto ou não.
     System.out.println(dataAtual.isLeapYear(2016));
     
-  //Clone a Pedido no Exercicio
+  //Clone a Pedido no Desafio
  GregorianCalendar cloneDataAtual = new GregorianCalendar();cloneDataAtual = (GregorianCalendar)dataAtual.clone();
   System.out.println("Data Clonada"+ " Clone dataAtual object : "+ cloneDataAtual.getTime());
   // fim do Clone
