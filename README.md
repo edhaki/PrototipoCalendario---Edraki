@@ -1,9 +1,9 @@
 # PrototipoCalendario---Edraki
 A minha evolução continua constante o desafio proposto  + 1 desafio concluido com sucesso e vamos pra cima! 
 
-Usado Calendare GregorianCalendar.
+Foi usado Calendar e GregorianCalendar.
 
-
+Desafio concluido era proposto:
 Escreva uma classe Data cuja instância (objeto) represente uma data. Esta classe deverá dispor dos
 seguintes métodos:
 
